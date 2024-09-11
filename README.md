@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shetkari03/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0071-simplify-path](https://github.com/shetkari03/LeetCode/tree/master/0071-simplify-path) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shetkari03/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/shetkari03/LeetCode/tree/master/0071-simplify-path) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shetkari03/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shetkari03/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shetkari03/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
