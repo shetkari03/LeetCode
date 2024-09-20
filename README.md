@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shetkari03/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/shetkari03/LeetCode/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/shetkari03/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
@@ -104,6 +105,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shetkari03/LeetCode/tree/master/0062-unique-paths) |
 | [0367-valid-perfect-square](https://github.com/shetkari03/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shetkari03/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
