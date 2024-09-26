@@ -7,9 +7,11 @@ public:
     bool book(int start, int end) {
             for(auto it:arr){
                 if(it.first>=end)break;
-                if(it.first<end && start<=it.first)return false;
-                if(start>=it.first && end<it.second)return false;
-                if(start<it.second && end>=it.second)return false;
+                // if(it.first<end && start<=it.first)return false;
+                // if(start>=it.first && end<it.second)return false;
+                // if(start<it.second && end>=it.second)return false;
+                if(end<=it.first || it.second<=start);
+                else return false;
             }
             arr.insert({start,end});
             return true;
