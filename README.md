@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shetkari03/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shetkari03/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shetkari03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3516-design-neighbor-sum-service](https://github.com/shetkari03/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/shetkari03/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shetkari03/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3516-design-neighbor-sum-service](https://github.com/shetkari03/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shetkari03/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0729-my-calendar-i](https://github.com/shetkari03/LeetCode/tree/master/0729-my-calendar-i) |
+| [3516-design-neighbor-sum-service](https://github.com/shetkari03/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Trie
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/shetkari03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shetkari03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shetkari03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3516-design-neighbor-sum-service](https://github.com/shetkari03/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Counting
 |  |
 | ------- |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shetkari03/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0566-reshape-the-matrix](https://github.com/shetkari03/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [3516-design-neighbor-sum-service](https://github.com/shetkari03/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Segment Tree
 |  |
 | ------- |
