@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shetkari03/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/shetkari03/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/shetkari03/LeetCode/tree/master/0179-largest-number) |
+| [0303-range-sum-query-immutable](https://github.com/shetkari03/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/shetkari03/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/shetkari03/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shetkari03/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shetkari03/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shetkari03/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shetkari03/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0303-range-sum-query-immutable](https://github.com/shetkari03/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/shetkari03/LeetCode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/shetkari03/LeetCode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shetkari03/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
