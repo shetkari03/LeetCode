@@ -6,8 +6,10 @@ public:
         int prev=skill[i]+skill[j];
         long long ans=0;
         while(i<j){
-            if(skill[i]+skill[j]!=prev)return -1;
-            ans+=(skill[i]*skill[j]);
+            long long  d=skill[i]+skill[j];
+            long long m=skill[i]*skill[j];
+            if(d!=prev)return -1;
+            ans+=m;
             i++;
             j--;
         }
