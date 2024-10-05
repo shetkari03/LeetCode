@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shetkari03/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0068-text-justification](https://github.com/shetkari03/LeetCode/tree/master/0068-text-justification) |
 | [0152-maximum-product-subarray](https://github.com/shetkari03/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/shetkari03/LeetCode/tree/master/0179-largest-number) |
 | [0303-range-sum-query-immutable](https://github.com/shetkari03/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/shetkari03/LeetCode/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/shetkari03/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shetkari03/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3516-design-neighbor-sum-service](https://github.com/shetkari03/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shetkari03/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0068-text-justification](https://github.com/shetkari03/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/shetkari03/LeetCode/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/shetkari03/LeetCode/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shetkari03/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
