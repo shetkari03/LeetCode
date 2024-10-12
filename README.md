@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/shetkari03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shetkari03/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shetkari03/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shetkari03/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shetkari03/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shetkari03/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shetkari03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/shetkari03/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shetkari03/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shetkari03/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shetkari03/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/shetkari03/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/shetkari03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shetkari03/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shetkari03/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shetkari03/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/shetkari03/LeetCode/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shetkari03/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shetkari03/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shetkari03/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/shetkari03/LeetCode/tree/master/0561-array-partition) |
 | [1256-rank-transform-of-an-array](https://github.com/shetkari03/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shetkari03/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shetkari03/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting Sort
 |  |
@@ -211,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shetkari03/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shetkari03/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
