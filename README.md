@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shetkari03/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/shetkari03/LeetCode/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/shetkari03/LeetCode/tree/master/0561-array-partition) |
+| [0670-maximum-swap](https://github.com/shetkari03/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shetkari03/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/shetkari03/LeetCode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shetkari03/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shetkari03/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/shetkari03/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/shetkari03/LeetCode/tree/master/0670-maximum-swap) |
 ## Combinatorics
 |  |
 | ------- |
