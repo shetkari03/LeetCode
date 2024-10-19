@@ -1,8 +1,9 @@
 class Solution {
 public:
     vector<bool> isArraySpecial(vector<int>& nums, vector<vector<int>>& queries) {
-        map<int,int>mpp;
+        //map<int,int>mpp;
         int ct=0,n=nums.size();
+        vector<int>mpp(n,0);
         for(int i=1;i<n;i++){
             if(nums[i]%2==nums[i-1]%2){
                 ct++;
