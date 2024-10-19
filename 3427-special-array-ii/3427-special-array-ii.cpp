@@ -13,8 +13,9 @@ public:
         vector<bool>ans;
         for(auto it:queries){
             int i=it[0],j=it[1];
-            if(mpp[i]==mpp[j])ans.push_back(true);
-            else ans.push_back(false);
+            // if(mpp[i]==mpp[j])ans.push_back(true);
+            // else ans.push_back(false);
+            ans.push_back(mpp[i]==mpp[j]);
         }
         return ans;
     }
