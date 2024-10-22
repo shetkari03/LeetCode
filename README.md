@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shetkari03/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/shetkari03/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/shetkari03/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1488-sort-integers-by-the-power-value](https://github.com/shetkari03/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/shetkari03/LeetCode/tree/master/0561-array-partition) |
 | [1256-rank-transform-of-an-array](https://github.com/shetkari03/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1488-sort-integers-by-the-power-value](https://github.com/shetkari03/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shetkari03/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shetkari03/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shetkari03/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shetkari03/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/shetkari03/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
