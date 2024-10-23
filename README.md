@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/shetkari03/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shetkari03/LeetCode/tree/master/0062-unique-paths) |
+| [0172-factorial-trailing-zeroes](https://github.com/shetkari03/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0367-valid-perfect-square](https://github.com/shetkari03/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/shetkari03/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
