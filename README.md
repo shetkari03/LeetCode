@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/shetkari03/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/shetkari03/LeetCode/tree/master/0670-maximum-swap) |
+| [3568-find-the-key-of-the-numbers](https://github.com/shetkari03/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Combinatorics
 |  |
 | ------- |
