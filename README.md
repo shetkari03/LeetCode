@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shetkari03/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shetkari03/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shetkari03/LeetCode/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/shetkari03/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shetkari03/LeetCode/tree/master/0002-add-two-numbers) |
 | [0859-design-circular-deque](https://github.com/shetkari03/LeetCode/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shetkari03/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shetkari03/LeetCode/tree/master/0050-powx-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/shetkari03/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shetkari03/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
