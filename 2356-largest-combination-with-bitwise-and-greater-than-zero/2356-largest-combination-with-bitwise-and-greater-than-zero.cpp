@@ -1,7 +1,7 @@
 class Solution {
 public:
     int largestCombination(vector<int>& candidates) {
-        vector<int>hash(100,0);
+        vector<int>hash(30,0);
         for(auto it:candidates){
             int d=it,ct=0;
             while(d){
@@ -11,7 +11,7 @@ public:
             }
         }
         int ans=1;
-        for(int i=0;i<100;i++){
+        for(int i=0;i<30;i++){
             ans=ans>hash[i]?ans:hash[i];
         }
         return ans;
