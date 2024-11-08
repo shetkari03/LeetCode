@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shetkari03/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shetkari03/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/shetkari03/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shetkari03/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shetkari03/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shetkari03/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shetkari03/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shetkari03/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shetkari03/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shetkari03/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shetkari03/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shetkari03/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shetkari03/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shetkari03/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shetkari03/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shetkari03/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shetkari03/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Iterator
 |  |
 | ------- |
