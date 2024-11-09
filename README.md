@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/shetkari03/LeetCode/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/shetkari03/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/shetkari03/LeetCode/tree/master/0859-design-circular-deque) |
+| [0876-hand-of-straights](https://github.com/shetkari03/LeetCode/tree/master/0876-hand-of-straights) |
 | [1002-maximum-width-ramp](https://github.com/shetkari03/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/shetkari03/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shetkari03/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/shetkari03/LeetCode/tree/master/0567-permutation-in-string) |
+| [0876-hand-of-straights](https://github.com/shetkari03/LeetCode/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shetkari03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/shetkari03/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shetkari03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shetkari03/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shetkari03/LeetCode/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/shetkari03/LeetCode/tree/master/0670-maximum-swap) |
+| [0876-hand-of-straights](https://github.com/shetkari03/LeetCode/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shetkari03/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/shetkari03/LeetCode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shetkari03/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shetkari03/LeetCode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/shetkari03/LeetCode/tree/master/0561-array-partition) |
+| [0876-hand-of-straights](https://github.com/shetkari03/LeetCode/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/shetkari03/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shetkari03/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shetkari03/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
