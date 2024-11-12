@@ -1,12 +1,6 @@
 #include<bits/stdc++.h>
 class Solution {
 public:
-public: bool comp(const string &a, const string &b) {
-    return lexicographical_compare(a.begin(), a.end(),
-           b.begin(), b.end(), [](char c1, char c2) {
-        return tolower(c1) < tolower(c2);
-    });
-}
     vector<int> maximumBeauty(vector<vector<int>>& items, vector<int>& queries) {
         sort(items.begin(),items.end());
         int n=items.size();
@@ -23,7 +17,7 @@ public: bool comp(const string &a, const string &b) {
                 if(it<items[mid][0])right=mid-1;
                 else left=mid+1;
             }
-            cout<<left<<" "<<right<<endl;
+            //cout<<left<<" "<<right<<endl;
             if(right>=0 && right<n)ans.push_back(hash[right]);
             else ans.push_back(0);
         }
