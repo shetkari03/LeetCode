@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shetkari03/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/shetkari03/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shetkari03/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/shetkari03/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/shetkari03/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/shetkari03/LeetCode/tree/master/0068-text-justification) |
 | [0090-subsets-ii](https://github.com/shetkari03/LeetCode/tree/master/0090-subsets-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/shetkari03/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shetkari03/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/shetkari03/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/shetkari03/LeetCode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/shetkari03/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shetkari03/LeetCode/tree/master/0216-combination-sum-iii) |
