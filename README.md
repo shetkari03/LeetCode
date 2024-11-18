@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/shetkari03/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shetkari03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shetkari03/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1755-defuse-the-bomb](https://github.com/shetkari03/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shetkari03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/shetkari03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shetkari03/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/shetkari03/LeetCode/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shetkari03/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/shetkari03/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shetkari03/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/shetkari03/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shetkari03/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
