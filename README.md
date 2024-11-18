@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shetkari03/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/shetkari03/LeetCode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shetkari03/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shetkari03/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shetkari03/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shetkari03/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shetkari03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/shetkari03/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/shetkari03/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/shetkari03/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shetkari03/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shetkari03/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shetkari03/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
