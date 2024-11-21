@@ -13,7 +13,6 @@ public:
                 if(mpp.find(t)==mpp.end())break;
                 j++;
             }
-            cout<<i<<" "<<j<<endl;
             if(j==m-1){
                 if(ans.size()==m){
                     if(ans>words[i])ans=words[i];
