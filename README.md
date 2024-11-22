@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shetkari03/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/shetkari03/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/shetkari03/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/shetkari03/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shetkari03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shetkari03/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shetkari03/LeetCode/tree/master/0455-assign-cookies) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shetkari03/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/shetkari03/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/shetkari03/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shetkari03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0729-my-calendar-i](https://github.com/shetkari03/LeetCode/tree/master/0729-my-calendar-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shetkari03/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shetkari03/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/shetkari03/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shetkari03/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shetkari03/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shetkari03/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shetkari03/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/shetkari03/LeetCode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/shetkari03/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/shetkari03/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shetkari03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shetkari03/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/shetkari03/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/shetkari03/LeetCode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/shetkari03/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/shetkari03/LeetCode/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/shetkari03/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shetkari03/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shetkari03/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shetkari03/LeetCode/tree/master/0561-array-partition) |
