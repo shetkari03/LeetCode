@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shetkari03/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/shetkari03/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/shetkari03/LeetCode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/shetkari03/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shetkari03/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shetkari03/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shetkari03/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/shetkari03/LeetCode/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/shetkari03/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shetkari03/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/shetkari03/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -521,4 +523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shetkari03/LeetCode/tree/master/0146-lru-cache) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/shetkari03/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/shetkari03/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
