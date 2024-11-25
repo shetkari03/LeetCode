@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/shetkari03/LeetCode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/shetkari03/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/shetkari03/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-sliding-puzzle](https://github.com/shetkari03/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0817-design-hashmap](https://github.com/shetkari03/LeetCode/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/shetkari03/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/shetkari03/LeetCode/tree/master/0859-design-circular-deque) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shetkari03/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0566-reshape-the-matrix](https://github.com/shetkari03/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/shetkari03/LeetCode/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/shetkari03/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/shetkari03/LeetCode/tree/master/0854-making-a-large-island) |
 | [1972-rotating-the-box](https://github.com/shetkari03/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/shetkari03/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/shetkari03/LeetCode/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/shetkari03/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/shetkari03/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shetkari03/LeetCode/tree/master/0854-making-a-large-island) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shetkari03/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
