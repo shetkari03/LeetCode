@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shetkari03/LeetCode/tree/master/0567-permutation-in-string) |
 | [1129-longest-string-chain](https://github.com/shetkari03/LeetCode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shetkari03/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shetkari03/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shetkari03/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/shetkari03/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/shetkari03/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shetkari03/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shetkari03/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shetkari03/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shetkari03/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shetkari03/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shetkari03/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shetkari03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -619,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/shetkari03/LeetCode/tree/master/0817-design-hashmap) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shetkari03/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
