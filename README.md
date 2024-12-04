@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shetkari03/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/shetkari03/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/shetkari03/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0808-number-of-matching-subsequences](https://github.com/shetkari03/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/shetkari03/LeetCode/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/shetkari03/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/shetkari03/LeetCode/tree/master/0859-design-circular-deque) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shetkari03/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shetkari03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0729-my-calendar-i](https://github.com/shetkari03/LeetCode/tree/master/0729-my-calendar-i) |
+| [0808-number-of-matching-subsequences](https://github.com/shetkari03/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shetkari03/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/shetkari03/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shetkari03/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/shetkari03/LeetCode/tree/master/0567-permutation-in-string) |
 | [0720-longest-word-in-dictionary](https://github.com/shetkari03/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0808-number-of-matching-subsequences](https://github.com/shetkari03/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shetkari03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shetkari03/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1119-robot-bounded-in-circle](https://github.com/shetkari03/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shetkari03/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shetkari03/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/shetkari03/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0808-number-of-matching-subsequences](https://github.com/shetkari03/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1129-longest-string-chain](https://github.com/shetkari03/LeetCode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/shetkari03/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shetkari03/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/shetkari03/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/shetkari03/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/shetkari03/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0808-number-of-matching-subsequences](https://github.com/shetkari03/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shetkari03/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shetkari03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -325,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/shetkari03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/shetkari03/LeetCode/tree/master/0567-permutation-in-string) |
 | [0720-longest-word-in-dictionary](https://github.com/shetkari03/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0808-number-of-matching-subsequences](https://github.com/shetkari03/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/shetkari03/LeetCode/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/shetkari03/LeetCode/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shetkari03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -382,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/shetkari03/LeetCode/tree/master/0561-array-partition) |
 | [0720-longest-word-in-dictionary](https://github.com/shetkari03/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0808-number-of-matching-subsequences](https://github.com/shetkari03/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0876-hand-of-straights](https://github.com/shetkari03/LeetCode/tree/master/0876-hand-of-straights) |
 | [1129-longest-string-chain](https://github.com/shetkari03/LeetCode/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/shetkari03/LeetCode/tree/master/1256-rank-transform-of-an-array) |
