@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/shetkari03/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shetkari03/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shetkari03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/shetkari03/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shetkari03/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/shetkari03/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shetkari03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shetkari03/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shetkari03/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shetkari03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/shetkari03/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shetkari03/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shetkari03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shetkari03/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shetkari03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shetkari03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/shetkari03/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shetkari03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shetkari03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Greedy
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/shetkari03/LeetCode/tree/master/0670-maximum-swap) |
 | [1119-robot-bounded-in-circle](https://github.com/shetkari03/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1635-number-of-good-pairs](https://github.com/shetkari03/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/shetkari03/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3568-find-the-key-of-the-numbers](https://github.com/shetkari03/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Combinatorics
