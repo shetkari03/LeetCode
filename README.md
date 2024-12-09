@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/shetkari03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shetkari03/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/shetkari03/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/shetkari03/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1972-rotating-the-box](https://github.com/shetkari03/LeetCode/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shetkari03/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shetkari03/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shetkari03/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shetkari03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shetkari03/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/shetkari03/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shetkari03/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shetkari03/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shetkari03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shetkari03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/shetkari03/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shetkari03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/shetkari03/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shetkari03/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shetkari03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Greedy
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/shetkari03/LeetCode/tree/master/0670-maximum-swap) |
 | [1119-robot-bounded-in-circle](https://github.com/shetkari03/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1635-number-of-good-pairs](https://github.com/shetkari03/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/shetkari03/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shetkari03/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shetkari03/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2716-prime-subtraction-operation](https://github.com/shetkari03/LeetCode/tree/master/2716-prime-subtraction-operation) |
