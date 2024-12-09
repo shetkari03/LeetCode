@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shetkari03/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/shetkari03/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/shetkari03/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shetkari03/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shetkari03/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shetkari03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shetkari03/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/shetkari03/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shetkari03/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shetkari03/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shetkari03/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shetkari03/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
 |  |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/shetkari03/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1635-number-of-good-pairs](https://github.com/shetkari03/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shetkari03/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shetkari03/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2716-prime-subtraction-operation](https://github.com/shetkari03/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3568-find-the-key-of-the-numbers](https://github.com/shetkari03/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Combinatorics
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shetkari03/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shetkari03/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2716-prime-subtraction-operation](https://github.com/shetkari03/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Database
 |  |
