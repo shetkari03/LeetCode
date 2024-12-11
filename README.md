@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/shetkari03/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shetkari03/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2845-find-the-value-of-the-partition](https://github.com/shetkari03/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shetkari03/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shetkari03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shetkari03/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shetkari03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shetkari03/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shetkari03/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/shetkari03/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shetkari03/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shetkari03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/shetkari03/LeetCode/tree/master/3427-special-array-ii) |
 ## Simulation
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/shetkari03/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shetkari03/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2845-find-the-value-of-the-partition](https://github.com/shetkari03/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shetkari03/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shetkari03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shetkari03/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting Sort
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shetkari03/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/shetkari03/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shetkari03/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shetkari03/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shetkari03/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/shetkari03/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shetkari03/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
