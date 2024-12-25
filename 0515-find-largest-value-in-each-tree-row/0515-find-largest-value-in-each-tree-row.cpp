@@ -20,10 +20,9 @@ public:
             int n=q.size();
             int m=INT_MIN;
             for(int i=0;i<n;i++){
-                TreeNode* r=q.front();q.pop();
-                m=max(m,r->val);
-                if(r->left)q.push(r->left);
-                if(r->right)q.push(r->right);
+                m=max(m,q.front()->val);
+                if(q.front()->left)q.push(q.front()->left);
+                if(q.front()->right)q.push(q.front()->right);q.pop();
             }
             ans.push_back(m);
         }
