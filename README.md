@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shetkari03/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shetkari03/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/shetkari03/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/shetkari03/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shetkari03/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/shetkari03/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/shetkari03/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/shetkari03/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/shetkari03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/shetkari03/LeetCode/tree/master/1972-rotating-the-box) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/shetkari03/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shetkari03/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/shetkari03/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shetkari03/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shetkari03/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/shetkari03/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shetkari03/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/shetkari03/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shetkari03/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/shetkari03/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shetkari03/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
