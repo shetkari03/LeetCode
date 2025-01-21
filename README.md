@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shetkari03/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0334-increasing-triplet-subsequence](https://github.com/shetkari03/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/shetkari03/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/shetkari03/LeetCode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/shetkari03/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/shetkari03/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shetkari03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/shetkari03/LeetCode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/shetkari03/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/shetkari03/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/shetkari03/LeetCode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/shetkari03/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shetkari03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shetkari03/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/shetkari03/LeetCode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/shetkari03/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/shetkari03/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/shetkari03/LeetCode/tree/master/0396-rotate-function) |
 | [0492-construct-the-rectangle](https://github.com/shetkari03/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/shetkari03/LeetCode/tree/master/0670-maximum-swap) |
