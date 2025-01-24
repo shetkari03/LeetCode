@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shetkari03/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/shetkari03/LeetCode/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shetkari03/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/shetkari03/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/shetkari03/LeetCode/tree/master/0090-subsets-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shetkari03/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/shetkari03/LeetCode/tree/master/0135-candy) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/shetkari03/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shetkari03/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/shetkari03/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/shetkari03/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/shetkari03/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shetkari03/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shetkari03/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/shetkari03/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shetkari03/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/shetkari03/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/shetkari03/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/shetkari03/LeetCode/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shetkari03/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shetkari03/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/shetkari03/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/shetkari03/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0566-reshape-the-matrix](https://github.com/shetkari03/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/shetkari03/LeetCode/tree/master/0733-flood-fill) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shetkari03/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/shetkari03/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/shetkari03/LeetCode/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shetkari03/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/shetkari03/LeetCode/tree/master/1002-maximum-width-ramp) |
