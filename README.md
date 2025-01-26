@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shetkari03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shetkari03/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shetkari03/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/shetkari03/LeetCode/tree/master/0039-combination-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shetkari03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/shetkari03/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/shetkari03/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/shetkari03/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shetkari03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/shetkari03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
 |  |
