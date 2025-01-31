@@ -26,6 +26,19 @@ class DisjointSet{
             }
         }
     }
+    void unionByRank(int u,int v){
+        int pu=findUparent(u),pv=findUparent(v);
+        if(pu!=pv){
+            if(rank[pu]>=rank[pv]){
+                parent[pv]=pu;
+                rank[pu]++;
+            }
+            else{
+                parent[pu]=pv;
+                rank[pv]++;
+            }
+        }
+    }
 };
 class Solution {
 public:
