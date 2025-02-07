@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shetkari03/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shetkari03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shetkari03/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/shetkari03/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shetkari03/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shetkari03/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shetkari03/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shetkari03/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/shetkari03/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shetkari03/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/shetkari03/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shetkari03/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shetkari03/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shetkari03/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/shetkari03/LeetCode/tree/master/0670-maximum-swap) |
 | [1119-robot-bounded-in-circle](https://github.com/shetkari03/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1635-number-of-good-pairs](https://github.com/shetkari03/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/shetkari03/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/shetkari03/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shetkari03/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shetkari03/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
