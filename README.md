@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/shetkari03/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/shetkari03/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shetkari03/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/shetkari03/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/shetkari03/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/shetkari03/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/shetkari03/LeetCode/tree/master/2580-circular-sentence) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shetkari03/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shetkari03/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shetkari03/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/shetkari03/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shetkari03/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shetkari03/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shetkari03/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/shetkari03/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shetkari03/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/shetkari03/LeetCode/tree/master/3447-clear-digits) |
 ## Depth-First Search
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shetkari03/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shetkari03/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shetkari03/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/shetkari03/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shetkari03/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/shetkari03/LeetCode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shetkari03/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
