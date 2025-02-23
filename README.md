@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/shetkari03/LeetCode/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shetkari03/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/shetkari03/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shetkari03/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/shetkari03/LeetCode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/shetkari03/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/shetkari03/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/shetkari03/LeetCode/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/shetkari03/LeetCode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shetkari03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shetkari03/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/shetkari03/LeetCode/tree/master/0952-word-subsets) |
 | [1129-longest-string-chain](https://github.com/shetkari03/LeetCode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/shetkari03/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shetkari03/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shetkari03/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shetkari03/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shetkari03/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shetkari03/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shetkari03/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shetkari03/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shetkari03/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shetkari03/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shetkari03/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shetkari03/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shetkari03/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shetkari03/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shetkari03/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -847,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shetkari03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/shetkari03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shetkari03/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
