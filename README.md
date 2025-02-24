@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/shetkari03/LeetCode/tree/master/3447-clear-digits) |
 | [3516-design-neighbor-sum-service](https://github.com/shetkari03/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shetkari03/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3634-find-mirror-score-of-a-string](https://github.com/shetkari03/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/shetkari03/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/shetkari03/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shetkari03/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3634-find-mirror-score-of-a-string](https://github.com/shetkari03/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/shetkari03/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shetkari03/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/shetkari03/LeetCode/tree/master/3447-clear-digits) |
+| [3634-find-mirror-score-of-a-string](https://github.com/shetkari03/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shetkari03/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shetkari03/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3516-design-neighbor-sum-service](https://github.com/shetkari03/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3634-find-mirror-score-of-a-string](https://github.com/shetkari03/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Counting
 |  |
 | ------- |
