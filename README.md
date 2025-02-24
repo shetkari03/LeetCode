@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/shetkari03/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/shetkari03/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shetkari03/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1104-coloring-a-border](https://github.com/shetkari03/LeetCode/tree/master/1104-coloring-a-border) |
 | [1129-longest-string-chain](https://github.com/shetkari03/LeetCode/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/shetkari03/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/shetkari03/LeetCode/tree/master/1287-distance-between-bus-stops) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/shetkari03/LeetCode/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shetkari03/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shetkari03/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1104-coloring-a-border](https://github.com/shetkari03/LeetCode/tree/master/1104-coloring-a-border) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shetkari03/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shetkari03/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/shetkari03/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shetkari03/LeetCode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/shetkari03/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/shetkari03/LeetCode/tree/master/0854-making-a-large-island) |
+| [1104-coloring-a-border](https://github.com/shetkari03/LeetCode/tree/master/1104-coloring-a-border) |
 | [1396-count-servers-that-communicate](https://github.com/shetkari03/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/shetkari03/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/shetkari03/LeetCode/tree/master/1972-rotating-the-box) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/shetkari03/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/shetkari03/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shetkari03/LeetCode/tree/master/0854-making-a-large-island) |
+| [1104-coloring-a-border](https://github.com/shetkari03/LeetCode/tree/master/1104-coloring-a-border) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shetkari03/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/shetkari03/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shetkari03/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
