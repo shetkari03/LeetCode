@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shetkari03/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shetkari03/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shetkari03/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/shetkari03/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3779-eat-pizzas](https://github.com/shetkari03/LeetCode/tree/master/3779-eat-pizzas) |
 ## Binary Search
 |  |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shetkari03/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shetkari03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/shetkari03/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3748-sort-matrix-by-diagonals](https://github.com/shetkari03/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3779-eat-pizzas](https://github.com/shetkari03/LeetCode/tree/master/3779-eat-pizzas) |
 ## Counting Sort
 |  |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shetkari03/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shetkari03/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3516-design-neighbor-sum-service](https://github.com/shetkari03/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3748-sort-matrix-by-diagonals](https://github.com/shetkari03/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Segment Tree
 |  |
 | ------- |
