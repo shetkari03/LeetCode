@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/shetkari03/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shetkari03/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1104-coloring-a-border](https://github.com/shetkari03/LeetCode/tree/master/1104-coloring-a-border) |
+| [1127-last-stone-weight](https://github.com/shetkari03/LeetCode/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/shetkari03/LeetCode/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/shetkari03/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/shetkari03/LeetCode/tree/master/1287-distance-between-bus-stops) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/shetkari03/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0658-find-k-closest-elements](https://github.com/shetkari03/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shetkari03/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1127-last-stone-weight](https://github.com/shetkari03/LeetCode/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/shetkari03/LeetCode/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/shetkari03/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shetkari03/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
