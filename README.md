@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shetkari03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shetkari03/LeetCode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/shetkari03/LeetCode/tree/master/0355-design-twitter) |
+| [0398-random-pick-index](https://github.com/shetkari03/LeetCode/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/shetkari03/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shetkari03/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/shetkari03/LeetCode/tree/master/0554-brick-wall) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/shetkari03/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/shetkari03/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/shetkari03/LeetCode/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/shetkari03/LeetCode/tree/master/0398-random-pick-index) |
 | [0492-construct-the-rectangle](https://github.com/shetkari03/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/shetkari03/LeetCode/tree/master/0670-maximum-swap) |
@@ -1023,8 +1025,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/shetkari03/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/shetkari03/LeetCode/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/shetkari03/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/shetkari03/LeetCode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
