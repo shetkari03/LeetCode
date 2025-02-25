@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/shetkari03/LeetCode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/shetkari03/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/shetkari03/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0382-linked-list-random-node](https://github.com/shetkari03/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/shetkari03/LeetCode/tree/master/0396-rotate-function) |
 | [0492-construct-the-rectangle](https://github.com/shetkari03/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0539-minimum-time-difference](https://github.com/shetkari03/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shetkari03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shetkari03/LeetCode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/shetkari03/LeetCode/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/shetkari03/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0816-design-hashset](https://github.com/shetkari03/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/shetkari03/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/shetkari03/LeetCode/tree/master/0859-design-circular-deque) |
@@ -1017,4 +1019,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shetkari03/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/shetkari03/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/shetkari03/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
