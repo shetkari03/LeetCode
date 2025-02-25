@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/shetkari03/LeetCode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/shetkari03/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/shetkari03/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shetkari03/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shetkari03/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1104-coloring-a-border](https://github.com/shetkari03/LeetCode/tree/master/1104-coloring-a-border) |
 | [1127-last-stone-weight](https://github.com/shetkari03/LeetCode/tree/master/1127-last-stone-weight) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/shetkari03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shetkari03/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/shetkari03/LeetCode/tree/master/0952-word-subsets) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shetkari03/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1129-longest-string-chain](https://github.com/shetkari03/LeetCode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/shetkari03/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/shetkari03/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shetkari03/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shetkari03/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/shetkari03/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/shetkari03/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/shetkari03/LeetCode/tree/master/1396-count-servers-that-communicate) |
