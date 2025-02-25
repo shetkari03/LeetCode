@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shetkari03/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shetkari03/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/shetkari03/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/shetkari03/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3427-special-array-ii](https://github.com/shetkari03/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/shetkari03/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shetkari03/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shetkari03/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shetkari03/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shetkari03/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/shetkari03/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shetkari03/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shetkari03/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3516-design-neighbor-sum-service](https://github.com/shetkari03/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/shetkari03/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shetkari03/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/shetkari03/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/shetkari03/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shetkari03/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
