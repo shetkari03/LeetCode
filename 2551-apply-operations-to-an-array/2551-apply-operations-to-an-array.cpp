@@ -15,7 +15,6 @@ public:
         }
         if(cur)ans.push_back(cur);
         int m=nums.size()-ans.size();
-        cout<<m;
         while(m--)ans.push_back(0);
         return ans;
     }
