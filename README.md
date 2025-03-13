@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shetkari03/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2845-find-the-value-of-the-partition](https://github.com/shetkari03/LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2868-continuous-subarrays](https://github.com/shetkari03/LeetCode/tree/master/2868-continuous-subarrays) |
+| [2873-prime-pairs-with-target-sum](https://github.com/shetkari03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shetkari03/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shetkari03/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shetkari03/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/shetkari03/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/shetkari03/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shetkari03/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2873-prime-pairs-with-target-sum](https://github.com/shetkari03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/shetkari03/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shetkari03/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/shetkari03/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shetkari03/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2873-prime-pairs-with-target-sum](https://github.com/shetkari03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -959,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/shetkari03/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/shetkari03/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/shetkari03/LeetCode/tree/master/2722-prime-in-diagonal) |
+| [2873-prime-pairs-with-target-sum](https://github.com/shetkari03/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 ## Database
 |  |
 | ------- |
